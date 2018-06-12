@@ -1,1 +1,1 @@
-include ':app', ':JsonDroidLibrary'
+include ':app', ':JsonDroidLibrary', ':Test02'

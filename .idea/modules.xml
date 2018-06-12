@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JsonDroidLibrary/JsonDroidLibrary.iml" filepath="$PROJECT_DIR$/JsonDroidLibrary/JsonDroidLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyTestSDK.iml" filepath="$PROJECT_DIR$/MyTestSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test02/Test02.iml" filepath="$PROJECT_DIR$/Test02/Test02.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
